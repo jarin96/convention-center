@@ -2,8 +2,9 @@
  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Poppins:wght@500;600;700&display=swap');
 .body{
     font-family: 'Poppins', sans-serif;
-    overflow: hidden;
+     
 }
+/* common css styles  */
 .slider image{
     height: 100vh;
     background-repeat: no-repeat;
